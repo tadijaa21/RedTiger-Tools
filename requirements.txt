@@ -27,3 +27,4 @@ Pillow
 browser-cookie3
 opencv-python
 pyautogui
+colorama
